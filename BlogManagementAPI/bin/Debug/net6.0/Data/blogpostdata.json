@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "UserName": "Suresh",
+    "DateCreate": "2024-03-01T00:00:00",
+    "PostText": "post data by suresh"
+  },
+  {
+    "Id": 2,
+    "UserName": "Pravesh",
+    "DateCreate": "2024-04-02T00:00:00",
+    "PostText": "post data by akhilesh"
+  },
+  {
+    "Id": 3,
+    "UserName": "Suresh",
+    "DateCreate": "2024-04-01T00:00:00",
+    "PostText": "this is first post valuesdfsfnnnfv"
+  },
+  {
+    "Id": 4,
+    "UserName": "Pravesh",
+    "DateCreate": "2024-10-04T11:09:19.5150235+05:30",
+    "PostText": "this post cfretaed by pk bunind  123"
+  }
+]
